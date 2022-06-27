@@ -1,0 +1,10 @@
+This is a test file only.
+I am Mac-Jordan D. Peralta, a spiring Full Stack Web Developer but I would like to have a deeper knowledge in executing backend development. More on typing and logics.
+Let's see on what path I will be going.
+
+For the frontend development, it is fun and creative. You get to design pages.
+In my experience along the bootcamp, I was more obsessed on javascript.
+After finishing the bootcamp, I will start to apply for works while learning more on javascript.
+
+It is correct, javascript it the mostly used programming language because of the flexibility it has, from frontend development to backend development.
+
