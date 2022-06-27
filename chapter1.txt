@@ -1,1 +1,15 @@
 The quick brown fox jumps over the lazy dog near the yellow river.
+The quick brown fox jumps over the lazy dog near the yellow river bank.
+
+I am Mac-Jordan D. Peralta, a Full Stack Web Developer.
+HTML
+CSS
+Javascript
+Bootstrap
+DOM
+jQuery
+nodeJS
+express
+API
+git
+
