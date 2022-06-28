@@ -1,0 +1,11 @@
+This is my test2 file.
+Let us try this file to check for changes made if can be logged and can be returned to the previous change once there is a messed up contents
+on this file.
+
+This seems to be effective in case there would be a need to return back to the previous revision.
+Especially in case that the codes made were not working but some divisions of the file are working fine.
+It would be better to totatlly discard all the recent changes rather than stocking myself on the same loop of problem which will eventuall consume so much of time.
+It would be effective to create new codes since there was an error made already and experienced the potential problems that can be tested in a step by step approach when going back
+to the previous revision.
+
+- End of Rev.00 -

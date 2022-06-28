@@ -1,0 +1,5 @@
+This is my test1 text file.
+I will be using this as my file 1 then try to do the local repository.
+I will try to recall the steps on doing it as well as the codes.
+
+- End of Rev.00 -
